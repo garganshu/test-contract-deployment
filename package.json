@@ -19,6 +19,7 @@
   "homepage": "https://github.com/garganshu/test-contract-deployment#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "ethereum-waffle": "^3.4.4",
     "hardhat": "^2.12.6"
   },
   "devDependencies": {
